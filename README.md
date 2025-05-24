@@ -7,30 +7,44 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MetalCloth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MetalCloth&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
-</div>
-
----
-<p align="center">
-  <img src="https://media1.tenor.com/m/S11XO5MPaQ4AAAAd/high-school-dxd-rias-gremory.gif" height="200" />
-</p>
-
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <!-- GitHub stats on the left -->
+      <a href="https://github.com/MetalCloth">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MetalCloth&theme=radical&title_color=ff3068?" alt="GitHub Stats" />
+      </a>
+      <a href="https://github.com/MetalCloth">
+        <img width="100%" src="http://github-readme-streak-stats.herokuapp.com/?user=MetalCloth&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td valign="top" width="50%" align="right">
+      <!-- Your custom image on the right -->
+      <img src="https://github.com/user-attachments/assets/db876121-00cc-4ddd-a3ae-ca76d9394499" alt="Custom Image" width="300px" />
+    </td>
+  </tr>
+</table>
 
 ### 🧰 My Toolbox
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 0;">
-  <div style="display: inline-block; margin: 0; padding: 0;">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,c,docker,aws,git,html,css,javascript,java,mysql,opencv,pandas,react,matlab" 
-         style="display: block; margin: 0; padding: 0; max-height: 50px;" />
-  </div>
-  <div style="display: inline-block; margin: 0; padding: 0;">
-    <img src="https://github.com/user-attachments/assets/db876121-00cc-4ddd-a3ae-ca76d9394499" 
-         style="display: block; margin: 0; padding: 0; max-height: 50px;" />
-  </div>
+<div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 600px; margin: 0 auto;">
+  <img src="https://skillicons.dev/icons?i=python" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=pytorch" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=c" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=docker" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=aws" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=git" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=html" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=css" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=javascript" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=java" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=opencv" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=react" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=matlab" style="width:60px; height:60px;" />
 </div>
-
 
 ---
 
@@ -44,7 +58,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/puneet-rawat-26a527274/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white," />
   </a>
   <a href="https://www.instagram.com/puneet_2006/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -59,10 +73,11 @@
 
 ### 🔬 About Me
 
-- 🧠 I build brains from scratch: character-level RNNs in NumPy & PyTorch  
-- 🤖 Passionate about GenAI: LangChain, vector stores, LLM pipelines  
+- 🧠 I build brains from scratch: character-level RNNs LSTMs Transformer in NumPy & PyTorch also up for EDA
+- 🤖 Passionate about GenAI: LangChain, vector stores, LLM pipelines, Finetuning  
 - 🌱 Currently building intelligent apps with LLM flows & real-time memory  
-- 🧪 Love experimenting with raw math, clean code & neural networks
+- 🧪 Love experimenting with raw math, clean code & neural networks, building backend AI application
+- 
 
 ---
 
