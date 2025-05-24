@@ -73,6 +73,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MetalCloth/MetalCloth/output/snake.svg" alt="Snake animation" />
+<img src="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" alt="Snake animation" />
 
 ###
