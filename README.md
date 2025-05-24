@@ -13,14 +13,22 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://media1.tenor.com/m/S11XO5MPaQ4AAAAd/high-school-dxd-rias-gremory.gif" height="200" />
+</p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="AI GIF" />
 
 ### 🧰 My Toolbox
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,c,docker,aws,git,html,css,javascript,java,mysql,opencv,pandas,react,matlab" />
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; text-align: left;">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,c,docker,aws,git,html,css,javascript,java,mysql,opencv,pandas,react,matlab" />
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://github.com/user-attachments/assets/db876121-00cc-4ddd-a3ae-ca76d9394499" alt="right image" style="max-width: 100%; height: auto;" />
+  </div>
 </div>
+
 
 ---
 
@@ -56,10 +64,11 @@
 
 ---
 
+### 🐍 GitHub Contribution Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
----
