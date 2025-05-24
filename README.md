@@ -20,12 +20,14 @@
 
 ### 🧰 My Toolbox
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; text-align: left;">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,c,docker,aws,git,html,css,javascript,java,mysql,opencv,pandas,react,matlab" />
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 0;">
+  <div style="display: inline-block; margin: 0; padding: 0;">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,c,docker,aws,git,html,css,javascript,java,mysql,opencv,pandas,react,matlab" 
+         style="display: block; margin: 0; padding: 0; max-height: 50px;" />
   </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://github.com/user-attachments/assets/db876121-00cc-4ddd-a3ae-ca76d9394499" alt="right image" style="max-width: 100%; height: auto;" />
+  <div style="display: inline-block; margin: 0; padding: 0;">
+    <img src="https://github.com/user-attachments/assets/db876121-00cc-4ddd-a3ae-ca76d9394499" 
+         style="display: block; margin: 0; padding: 0; max-height: 50px;" />
   </div>
 </div>
 
@@ -64,7 +66,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
