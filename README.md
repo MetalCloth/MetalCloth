@@ -25,17 +25,21 @@
   </tr>
 </table>
 
-### 🧰 My Toolbox
+### 🧰 Tech Stack:
 
 <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 600px; margin: 0 auto;">
   <img src="https://skillicons.dev/icons?i=python" style="width:60px; height:60px;" />
   <img src="https://skillicons.dev/icons?i=tensorflow" style="width:60px; height:60px;" />
   <img src="https://skillicons.dev/icons?i=pytorch" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=sklearn" style="width:60px; height:60px;" />
   <img src="https://skillicons.dev/icons?i=cpp" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=gcp" style="width:60px; height:60px;" />
   <img src="https://skillicons.dev/icons?i=c" style="width:60px; height:60px;" />
   <img src="https://skillicons.dev/icons?i=docker" style="width:60px; height:60px;" />
   <img src="https://skillicons.dev/icons?i=aws" style="width:60px; height:60px;" />
   <img src="https://skillicons.dev/icons?i=git" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=github" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=gitlab" style="width:60px; height:60px;" />
   <img src="https://skillicons.dev/icons?i=html" style="width:60px; height:60px;" />
   <img src="https://skillicons.dev/icons?i=css" style="width:60px; height:60px;" />
   <img src="https://skillicons.dev/icons?i=javascript" style="width:60px; height:60px;" />
