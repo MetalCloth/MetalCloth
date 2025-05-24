@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Puneet Rawat</h2>
-<h3 align="center">🧠 Building Intelligence from Scratch | GenAI Engineer | RNNs, LangChain & Python Flows</h3>
+<h3 align="center">🧠 Building Intelligence from Scratch | GenAI Engineer | Transformers, LangChain & Python Flows</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7971E&width=435&lines=GenAI+Engineer+%7C+LangChain+%7C+RNNs+%7C+Python+Flows;Creating+AI+that+thinks%2C+learns%2C+and+evolves;From+low-level+neurons+to+high-level+reasoning" />
