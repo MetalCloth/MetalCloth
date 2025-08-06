@@ -30,8 +30,12 @@
 <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 600px; margin: 0 auto;">
   <img src="https://skillicons.dev/icons?i=python" style="width:60px; height:60px;" />
   <img src="https://skillicons.dev/icons?i=fastapi" style="width:60px; height:60px;" />
+    <img src="https://skillicons.dev/icons?i=postman" style="width:60px; height:60px;" />
+
   
   <img src="https://skillicons.dev/icons?i=flask" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=kafka" style="width:60px; height:60px;" />
+
   <img src="https://skillicons.dev/icons?i=tensorflow" style="width:60px; height:60px;" />
   <img src="https://skillicons.dev/icons?i=pytorch" style="width:60px; height:60px;" />
   <img src="https://skillicons.dev/icons?i=sklearn" style="width:60px; height:60px;" />
