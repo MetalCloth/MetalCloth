@@ -20,7 +20,7 @@
     </td>
     <td valign="top" width="50%" align="right">
       <!-- Your custom image on the right -->
-      <img src="https://github.com/user-attachments/assets/db876121-00cc-4ddd-a3ae-ca76d9394499" alt="Custom Image" width="300px" />
+            <img src="https://github.com/user-attachments/assets/26828966-7212-460c-97a8-643ba251262c" alt="Soulja Boy Pepe Typing" size="820px" />
     </td>
   </tr>
 </table>
