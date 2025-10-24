@@ -1,3 +1,4 @@
+  <img src="https://skillicons.dev/icons?i=go" style="width:60px; height:60px;" />
 <h2 align="center">Hi 👋, I'm Puneet Rawat</h2>
 <h3 align="center">🧠 Building Intelligence from Scratch | GenAI Engineer | Transformers, LangChain & Python Flows</h3>
 
@@ -30,6 +31,8 @@
 <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 600px; margin: 0 auto;">
   <img src="https://skillicons.dev/icons?i=go" style="width:60px; height:60px;" />
   <img src="https://skillicons.dev/icons?i=redis" style="width:60px; height:60px;" />
+  <img src="https://skillicons.dev/icons?i=postgresql" style="width:60px; height:60px;" />
+  
   
   <img src="https://skillicons.dev/icons?i=fastapi" style="width:60px; height:60px;" />
   <img src="https://skillicons.dev/icons?i=python" style="width:60px; height:60px;" />
