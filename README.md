@@ -1,4 +1,3 @@
-  <img src="https://skillicons.dev/icons?i=go" style="width:60px; height:60px;" />
 <h2 align="center">Hi 👋, I'm Puneet Rawat</h2>
 <h3 align="center">🧠 Building Intelligence from Scratch | GenAI Engineer | Transformers, LangChain & Python Flows</h3>
 
